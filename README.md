@@ -1,2 +1,2 @@
-# landing
-CI4 Landing Page Package
+# CI4-landing
+Codeigniter4 Modular Landing page sample

@@ -1,7 +1,12 @@
 {
     "name": "rahpt/landing",
-    "description": "CI4 Modular Landing page sample",
+    "description": "Codeigniter4 Modular Landing page sample",
     "type": "library",
+    "keywords": [
+        "codeigniter",
+        "codeigniter4",
+        "bootstrap5"
+    ],
     "require": {
         "php": ">=7.4"
     },
