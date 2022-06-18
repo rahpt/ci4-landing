@@ -17,10 +17,10 @@
             "email": "jose.proenca@rah.pt"
         }
     ],
-	"autoload": {
+    "autoload": {
         "psr-4": {
             "Landing\\": "src/"
         }
-	},
+    },
     "minimum-stability": "dev"
 }
